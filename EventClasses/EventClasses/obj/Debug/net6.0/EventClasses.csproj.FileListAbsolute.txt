@@ -1,0 +1,15 @@
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/bin/Debug/net6.0/EventClasses
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/bin/Debug/net6.0/EventClasses.deps.json
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/bin/Debug/net6.0/EventClasses.runtimeconfig.json
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/bin/Debug/net6.0/EventClasses.dll
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/bin/Debug/net6.0/EventClasses.pdb
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.csproj.AssemblyReference.cache
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.AssemblyInfoInputs.cache
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.AssemblyInfo.cs
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.csproj.CoreCompileInputs.cache
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.dll
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/refint/EventClasses.dll
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.pdb
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/EventClasses.genruntimeconfig.cache
+/Users/arnold/Documents/DotNET Dev Program/CodingChallenge1/EventClasses/EventClasses/obj/Debug/net6.0/ref/EventClasses.dll
